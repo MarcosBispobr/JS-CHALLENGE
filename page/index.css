@@ -1,0 +1,40 @@
+.body {
+    margin: 10% 0 0 40%;
+    display: flex;
+    display: inline-block;
+    background-color: #a9a9a9;
+}
+.h1{
+    margin: 0 0 0 12%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#taskAdded{
+    border-radius: 6px;
+    width: 250px;
+    height: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#btnTask{
+    border-radius: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.select{
+    border-radius: 6px;
+    width: 250px;
+    height: 25px;
+}
+#btnlogout{
+    border-radius: 6px;
+    height: 30px;
+    width: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Section{
+    border-bottom: 6px;
+}
+#newTask{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

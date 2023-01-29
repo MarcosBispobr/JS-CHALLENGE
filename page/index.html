@@ -1,0 +1,42 @@
+<html lang="pt-br"><head>
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../page/index.css">
+        <script src="../page/index.js" defer></script>
+        <title>To do List</title>
+    </head>
+    <body class="body">
+        <header>
+            <h1 class="h1">TASK LIST</h1> 
+            <h2 class="h2">Add a task to your list</h2>
+        </header>
+       
+        <form>
+            <input type="text" id="taskAdded" maxlength="40" >
+            <button id="btnTask" type="submit" value="add"> +
+                <i class="fas fa-plus-square" aria-hidden="true"></i>
+            </button>
+            <div class="selectBox">
+                <br>
+                <select name="todos" class="select">
+                    <option value="all">All</option>
+                    <option value="completed">Finished</option>
+                </select>
+            </div>
+        </form>
+
+        <p id="check"></p>
+
+        <section id="cleanSection">
+           
+            <section id="Section">
+              <a id="newTask"></a>
+            </section>
+        </section>
+    
+        <p id="teste"></p>
+        <button id="btnlogout">Logout</button>
+
+
+</body>
+</html>

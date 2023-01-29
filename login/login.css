@@ -1,0 +1,27 @@
+.body{
+    margin: 10% 0 0 40%;
+    display: flex;
+    display: inline-block;
+    background-color: darkgray;
+}
+#btnSubmit{
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#email{
+    width: 200px;
+    height: 20px;
+    border-radius: 6px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#password{
+    width: 200px;
+    height: 20px;
+    border-radius: 6px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
